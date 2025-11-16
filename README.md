@@ -129,10 +129,10 @@
 
 ****   **
 12. Screenshots/Demos:**
-      Home dashboard looks like [Dashboard Preview].(https://github.com/Barun106/Pizza_Sales_analysis/blob/main/Pizza_Home_page.png)****
+      Home dashboard looks like [Dashboard Preview].(https://github.com/Devayann/pizza_sales/blob/main/Pizza_Home_page.png)****
 
 
-      Best/Worst Seller Dashboard looks like [Dashboard Preview].(https://github.com/Barun106/Pizza_Sales_analysis/blob/main/Pizza_best_worst_seller.png)****
+      Best/Worst Seller Dashboard looks like [Dashboard Preview].()****
 
 
 
