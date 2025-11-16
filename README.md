@@ -132,7 +132,7 @@
       Home dashboard looks like [Dashboard Preview].(https://github.com/Devayann/pizza_sales/blob/main/Pizza_Home_page.png)****
 
 
-      Best/Worst Seller Dashboard looks like [Dashboard Preview].()****
+      Best/Worst Seller Dashboard looks like [Dashboard Preview].(https://github.com/Devayann/pizza_sales/blob/main/Pizza_best_worst_seller.png)****
 
 
 
