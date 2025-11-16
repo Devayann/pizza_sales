@@ -93,7 +93,7 @@
    
 
 
-   ![Image Alt](https://github.com/Devayann/PIZZA-SALES-)
+   ![Image Alt](https://github.com/Devayann/pizza_sales)
 
 
 
